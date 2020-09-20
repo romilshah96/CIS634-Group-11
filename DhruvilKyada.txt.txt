@@ -1,0 +1,7 @@
+This is a file edited at local.
+
+This is an added line in Master branch.
+
+I am adding one line in MyFirstBranch.
+
+Chnaged by Dhruvil.
