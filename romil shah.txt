@@ -1,3 +1,0 @@
-This is a file edited at local.
-
-I am adding one line in master.
