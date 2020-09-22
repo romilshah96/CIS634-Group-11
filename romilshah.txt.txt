@@ -1,7 +1,0 @@
-This file is edited at local.
-
-This is an added line Master Branch.
-
-I am adding one line in MyFirstBranch.
-
-Changed by Romil Shah
